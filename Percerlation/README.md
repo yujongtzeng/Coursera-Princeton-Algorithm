@@ -15,8 +15,10 @@ java PercolationVisualizer input20.txt
 in the command line. It will call the homework file and test.
 
 Use CheckStyle:
-machine:~/Desktop/hello <username>$ checkstyle-coursera HelloWorld.java
-or machine:~/Desktop/hello <username>$ checkstyle-algs4 *.java
+
+    machine:~/Desktop/hello <username>$ checkstyle-coursera HelloWorld.java
+    or machine:~/Desktop/hello <username>$ checkstyle-algs4 *.java
+
 
 Help:
 Installing java on mac: 
